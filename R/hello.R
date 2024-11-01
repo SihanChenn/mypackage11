@@ -16,4 +16,9 @@
 hello <- function() {
   print("Hello, world!")
   print("nihao")
+  n=0
+  for (i in 1:100) {
+    n=n+1
+
+  }
 }
